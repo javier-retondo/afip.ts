@@ -34,7 +34,7 @@
 ##### NPM
 
 ```sh
-npm i afip.ts --save
+npm i afip.ts.neko --save
 ```
 
 ### Uso de la SDK
