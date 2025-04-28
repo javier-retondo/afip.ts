@@ -1,7 +1,7 @@
 {
-  "name": "afip.ts",
-  "version": "3.2.3",
-  "description": "Afip typescript SDK",
+  "name": "afip.ts.neko",
+  "version": "1.0.0",
+  "description": "Afip typescript client for web services. This package is a fork of the original afip.ts package, with some improvements and bug fixes.",
   "source": "src/index.ts",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -11,7 +11,7 @@
     "test": "jest",
     "wsdl-gen": "wsdl-to-ts --"
   },
-  "author": "valiuLab",
+  "author": "jretondo",
   "license": "ISC",
   "devDependencies": {
     "@jest/globals": "^29.6.2",
@@ -41,12 +41,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ralcorta/afip.ts.git"
+    "url": "git+https://github.com/javier-retondo/afip.ts.git"
   },
   "bugs": {
-    "url": "https://github.com/ralcorta/afip.ts/issues"
+    "url": "https://github.com/javier-retondo/afip.ts/issues"
   },
-  "homepage": "https://github.com/ralcorta/afip.ts#readme",
+  "homepage": "https://github.com/javier-retondo/afip.ts#readme",
   "files": [
     "lib/**/*"
   ],
