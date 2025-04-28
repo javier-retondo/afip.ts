@@ -11,10 +11,6 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/ralcorta/afip.ts">
-    <img src="https://user-images.githubusercontent.com/19806540/198080937-468e851b-2ae4-40a7-b2c5-cb929ff7749a.png" alt="afip.ts" width="230">
-  </a>
-
   <h3 align="center">Afip Ts</h3>
 
   <p align="center">
@@ -31,12 +27,6 @@
   </p>
 </p>
 
-
-<br />
-<p align="center">
-<a href='https://cafecito.app/rodrigoalcorta' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
-</p>
-
 ## Guia
 
 ### Instalación
@@ -45,12 +35,6 @@
 
 ```sh
 npm i afip.ts --save
-```
-
-##### Yarn
-
-```sh
-yarn add afip.ts
 ```
 
 ### Uso de la SDK
@@ -127,26 +111,6 @@ Caracteristicas:
 - Soporte para `Serverless`. El package permite manejar los token de autenticacion de manera aislada. 
 
 Para mas <strong>documentacion</strong>, ir al [sitio oficial](https://ralcorta.github.io/afip.ts).
-
-## Desarrollo y contribuciones
-
-### Contribuciones
-
-Si encontras un bug o desaes sugerir algo, revisa de que no haya [issues](https://github.com/ralcorta/afip.ts/issues) con el mismo tema, y de ser asi [puedes generar uno aqui](https://github.com/ralcorta/afip.ts/issues/new).
-
-### Desarrollo
-
-Seria genial si puedes ayudarnos mejorando `afip.ts`. ¿Como hacer?
-
-1. [Clonar](https://github.com/ralcorta/afip.ts).
-
-2. `npm install`.
-
-3. Rompela escribiendo tu codigo.
-
-4. Correr los test: `npm test`.
-
-5. Cear un [Pull Request](https://github.com/ralcorta/afip.ts/compare).
 
 ## Licencia
 
